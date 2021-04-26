@@ -12,3 +12,10 @@ This game is turn-based, so standing in one spot won't lose you a game, but goin
 
 Executable file is located in bin folder: ``` bin/Altercell.exe ```
 
+## Screenshots
+
+![screenshot 1](pics/screenshot1.png)
+![screenshot 2](pics/screenshot2.png)
+![screenshot 3](pics/screenshot3.png)
+![screenshot 4](pics/screenshot4.png)
+
